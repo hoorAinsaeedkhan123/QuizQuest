@@ -1,0 +1,2 @@
+# QuizQuest uses Python's built-in Tkinter and standard library only.
+# No pip packages are required.
